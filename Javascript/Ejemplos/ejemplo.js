@@ -1,8 +1,8 @@
-if(confirm("Estas contento en clase?")){
+if(confirm("Aprendiste git?")){
 	//Lo que se hace si se cumple la condicion
 	alert("Me caes bien");
 }
 else{
 	//Lo que se hace si No se cumple la condicion
-	alert("Mejor me quedo en la casa");
+	alert("Que el Profesor haga la clase mas divertida");
 }
